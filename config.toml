@@ -1,5 +1,5 @@
 # TODO Change these after the meeting
-baseURL = "https://iteroacademy.org"
+baseURL = "https://iteroacademy.github.io"
 title = "Itero Academy"
 author = "Itero" 
 languageCode = "en"
@@ -40,7 +40,7 @@ enableRobotsTXT = true
     meta_description = "Itero; yazılımı, gençlerin hayallerini gerçekleştirmeleri için bir araç haline getirmeyi hedefleyen bir topluluktur."
     meta_og_title = "Itero Academy"
     meta_og_type = "website"
-    meta_og_url = "https://iteroacademy.org"
+    meta_og_url = "https://iteroacademy.github.io"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
     meta_og_description = "Itero; yazılımı, gençlerin hayallerini gerçekleştirmeleri için bir araç haline getirmeyi hedefleyen bir topluluktur."
     meta_twitter_card = "summary_large_image"
