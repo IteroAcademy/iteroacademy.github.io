@@ -1,5 +1,5 @@
 # TODO Change these after the meeting
-baseURL = "https://iteroacademy.github.io"
+baseURL = "https://iteroacademy.org"
 title = "Itero Academy"
 author = "Itero" 
 languageCode = "en"
