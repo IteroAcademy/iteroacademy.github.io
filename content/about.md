@@ -5,16 +5,23 @@ date = "2022-05-26"
 aliases = ["about-us", "about-itero", "contact", "hakkimizda"]
 author = "Hugo Authors"
 +++
+
 Itero; yazılımı, gençlerin hayallerini gerçekleştirmeleri için bir araç haline
 getirmeyi hedefleyen bir topluluktur.
+
+---
 
 ## Vizyonumuz
 Itero, teknolojik engellerin genç ve girişimci ruhların hedeflerinin önüne
 geçmesini engelleyerek yazılımın gündelik hayata daha entegre olduğu bir dünya
 yaratmayı hedeflemektedir.
 
+---
+
 ## Misyonumuz
 Katılımcıların yazılım dünyasına adım atıp istediği alanda gelişmesine yardımcı olacak, nitelikli eğitimi erişilebilir kılan programlar ve faaliyetler düzenlemeyi amaçlamaktayız.
+
+---
 
 ## Kurulma Sebebimiz
 Günümüz dünyasında gerek girişimcileğe, gerek sosyal bilim alanlarına atılan
