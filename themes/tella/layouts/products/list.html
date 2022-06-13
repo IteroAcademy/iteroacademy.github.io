@@ -4,7 +4,7 @@
         <h1 class="mb-4 text-5xl title">{{.Title}}</h1>
         <div class="py-1 content">{{.Content}}</div>
         <div class="mb-2 grid grid-cols-1 md:grid-cols-2 gap-2">
-        {{ range .Pages.ByDate }}
+        {{ range .Pages.ByExpiryDate }}
         {{ .Render "summary" }}
         {{ end }}
         </div>

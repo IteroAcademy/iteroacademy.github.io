@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Object Oriented Programming with Java"
-date: 2022-07-24T12:33:45+10:00
+date: 2022-05-27T12:33:45+10:00
+expirydate: 2022-07-24T12:33:45+10:00
 draft: false
 featured: true
 weight: 1
