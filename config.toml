@@ -2,8 +2,9 @@
 baseURL = "https://iteroacademy.org"
 title = "Itero Academy"
 author = "Itero" 
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = 'tr-TR'
+defaultContentLanguage = "tr"
+defaultContentLang = "tr"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
@@ -84,3 +85,9 @@ enableRobotsTXT = true
     url = "https://github.com/IteroAcademy"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

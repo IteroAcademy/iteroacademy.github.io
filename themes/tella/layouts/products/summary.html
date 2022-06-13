@@ -1,8 +1,19 @@
-<a href="{{ .Permalink }}">
-    <div class="summary border p-3">
-        <h2 class="text-3xl">
-            {{ .Title }}
-        </h2>
-        <p>{{ .Description }}</p>
-    </div>
-</a>
+<div class="content-center grid grid-cols-1 gap-4">
+
+<div class="flex items-center justify-center">
+  <h1 class="text-3xl title">
+    {{ .Date.Format "02/01/2006" }}
+  </h1>
+</div>
+  
+</div>
+<div>
+  <a href="{{ .Permalink }}">
+      <div class="p-3 border summary">
+          <h2 class="text-3xl">
+              {{ .Title }}
+          </h2>
+          <p>{{ .Description }}</p>
+      </div>
+  </a>
+</div>

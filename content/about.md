@@ -6,29 +6,46 @@ aliases = ["about-us", "about-itero", "contact", "hakkimizda"]
 author = "Hugo Authors"
 +++
 
-Itero; yazılımı, gençlerin hayallerini gerçekleştirmeleri için bir araç haline
-getirmeyi hedefleyen bir topluluktur.
+Günümüz dünyasında gerek girişimcileğe, gerek sosyal bilim alanlarına
+atılan bireylerin karşılaştığı en büyük problemlerden birinin, projelerini
+kodlama bilgilerinin yetersiz olması sebebiyle hayata geçirirken
+zorlanmaları olduğunu gördük. Ayrıca lise ve üniveriste çağında olup
+programlama öğrenmek isteyen gençlerin de bu alanda maruz kaldığı bilgi
+kirliliği ve dikkat dağıtıcı içerikler nedeniyle kendilerini yeteri kadar
+geliştirirken sıkıtını yaşadıklarını gözlemledik ve bu sorunu ortadan
+kurmak içi iteroyu kurmaya karar verdik.
 
----
+<style>
+  .column {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+  }
 
-## Vizyonumuz
-Itero, teknolojik engellerin genç ve girişimci ruhların hedeflerinin önüne
-geçmesini engelleyerek yazılımın gündelik hayata daha entegre olduğu bir dünya
-yaratmayı hedeflemektedir.
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+</style>
 
----
-
-## Misyonumuz
-Katılımcıların yazılım dünyasına adım atıp istediği alanda gelişmesine yardımcı olacak, nitelikli eğitimi erişilebilir kılan programlar ve faaliyetler düzenlemeyi amaçlamaktayız.
-
----
-
-## Kurulma Sebebimiz
-Günümüz dünyasında gerek girişimcileğe, gerek sosyal bilim alanlarına atılan
-bireylerin karşılaştığı en büyük problemlerden birinin, projelerini kodlama
-bilgilerinin yetersiz olması sebebiyle hayata geçirirken zorlanmaları olduğunu
-gördük. Ayrıca lise ve üniveriste çağında olup programlama öğrenmek isteyen
-gençlerin de bu alanda maruz kaldığı bilgi kirliliği ve dikkat dağıtıcı
-içerikler nedeniyle kendilerini yeteri kadar geliştirirken sıkıtını
-yaşadıklarını gözlemledik.
-
+<div class="row">
+  <div class="column">
+    <h2 class="title text-5xl mb-4">Vizyonumuz</h2>
+    Itero, teknolojik engellerin genç ve girişimci ruhların hedeflerinin önüne
+    geçmesini engelleyerek yazılımın gündelik hayata daha entegre olduğu bir dünya
+    yaratmayı hedeflemektedir.
+  </div>
+  <div class="column">
+    <h2 class="title text-5xl mb-4">Misyonumuz</h2>
+    Katılımcıların yazılım dünyasına adım atıp istediği alanda gelişmesine
+    yardımcı olacak, nitelikli eğitimi erişilebilir kılan programlar ve
+    faaliyetler düzenlemeyi amaçlamaktayız.
+  </div>
+  <div class="column">
+    <h2 class="title text-5xl mb-4">Hedefimiz</h2>
+      Itero; yazılımı, gençlerin hayallerini gerçekleştirmeleri için bir araç haline
+      getirmeyi hedefleyen bir topluluktur.
+  </div>
+</div>
